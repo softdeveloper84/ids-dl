@@ -1,3 +1,6 @@
+#hidden files
+^.
+
 # PyCharm files
 .idea/*
 
